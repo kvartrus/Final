@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\Final_project\Programs\bin\Debug\net6.0\Programs.exe
+C:\Users\Sharov\Desktop\Final_project\Programs\bin\Debug\net6.0\Programs.deps.json
+C:\Users\Sharov\Desktop\Final_project\Programs\bin\Debug\net6.0\Programs.runtimeconfig.json
+C:\Users\Sharov\Desktop\Final_project\Programs\bin\Debug\net6.0\Programs.dll
+C:\Users\Sharov\Desktop\Final_project\Programs\bin\Debug\net6.0\Programs.pdb
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.dll
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\refint\Programs.dll
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.pdb
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\Programs.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\Final_project\Programs\obj\Debug\net6.0\ref\Programs.dll
